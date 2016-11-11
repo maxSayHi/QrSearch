@@ -43,8 +43,7 @@
                android:logo="@drawable/launcher_icon"
                android:label="@string/app_name"
                android:allowBackup="true">
-    <activity android:name=".CaptureActivity"
-              android:screenOrientation="sensorLandscape"
+    <activity android:name="com.zbar.lib.CaptureActivity"
               android:clearTaskOnLaunch="true"
               android:stateNotNeeded="true"
               android:theme="@style/CaptureTheme"

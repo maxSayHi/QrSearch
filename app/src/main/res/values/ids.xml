@@ -15,6 +15,7 @@
  limitations under the License.
  -->
 <resources>
+  <item name="auto_focus" type="id"/>
   <item type="id" name="decode"/>
   <item type="id" name="decode_failed"/>
   <item type="id" name="decode_succeeded"/>
